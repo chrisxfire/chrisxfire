@@ -3,7 +3,7 @@
 I'm Christian (chrisxfire🔥) 
 - 🔭 I’m currently working on creating a blog.
 - 🌱 I’m currently learning WinUI 3 and XAML.
-- 😃 I build with .NET 6 & C#.
+- 🏗 I build with .NET 6 & C#.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

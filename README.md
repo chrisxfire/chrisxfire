@@ -3,7 +3,7 @@
 I'm Christian (chrisxfire🔥) 
 - 🏗 I build with .NET / C#.
 - 🔭 I’m currently working on a web app.
-- 🌱 I’m currently learning ASP.NET 7, Razor Pages, and Blazor.
+- 🌱 I’m currently learning ASP.NET Core 7, Razor Pages, and Blazor.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
